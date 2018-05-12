@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3802
     wikipedia: http://en.wikipedia.org/wiki/Leslie_Stephen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36957#Social-Rights-And-DutiesAddresses-to-Ethical-Societies-Vol-II
 gutenberg_issued: '2011-08-03'
 gutenberg_type: Text
 identifiers:
